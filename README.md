@@ -1,10 +1,12 @@
-# DA_Tssk3_ELEVATE-LABS
+# DA_Task3_ELEVATE-LABS
 # Task 3: Dashboard Design
 <b>Objective:</b> Design an interactive dashboard for business stakeholders.<br><br>
 <b>Tools:</b> Power BI<br><br>
 <b>Dataset from Kaggle</b>: [Company Financials Dataset](https://www.kaggle.com/datasets/atharvaarya25/financials)<br><br>
 
 # Financial Analysis Power BI Dashboard
+
+![Financial Analysis Power BI Dashboard](https://github.com/user-attachments/assets/4b807f3b-2aa8-41e9-86dc-60d23153928a)
 
 This Power BI dashboard provides a comprehensive financial overview using dynamic KPIs, charts, and slicers for interactive analysis of sales, profit, and business performance across multiple dimensions.
 

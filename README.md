@@ -1,4 +1,4 @@
-# DA_Task3_ELEVATE-LABS
+# DA_Task3_ELEVATE_LABS
 # Task 3: Dashboard Design
 <b>Objective:</b> Design an interactive dashboard for business stakeholders.<br><br>
 <b>Tools:</b> Power BI<br><br>
